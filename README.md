@@ -3,10 +3,10 @@
 Datasets are available in cleaned versions that can be fed into the TPOT algorithm. Own datasets need to be cleaned. 
 (Missing values are okay, columns should have the right type, target variable needs to be known.)
 
-- BankChurn dataset (Will a customer leave the credit card service or not?)
-- Hypothyroid dataset (Does a patient have hypothyroid disease? If yes, which type?)
-- Breastcancer dataset (Is the breast cancer malignant or benign?)
-- Pokerhand dataset (deterministic classification of a set of cards corresponding to a pokerhand)
+- BankChurn dataset (Will a customer leave the credit card service or not?) https://www.kaggle.com/sakshigoyal7/credit-card-customers
+- Hypothyroid dataset (Does a patient have hypothyroid disease? If yes, which type?) https://archive.ics.uci.edu/ml/datasets/thyroid+disease
+- Breastcancer dataset (Is the breast cancer malignant or benign?) https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
+- Pokerhand dataset (deterministic classification of a set of cards corresponding to a pokerhand) https://archive.ics.uci.edu/ml/datasets/Poker+Hand
 
 ## TPOT
 
