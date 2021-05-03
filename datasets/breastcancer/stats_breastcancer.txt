@@ -1,0 +1,5 @@
+* predict if a patient has a malignant event or not
+* 285 samples
+* 2 classes (unbalanced)
+* 30 features
+* no missing values

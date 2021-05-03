@@ -1,0 +1,6 @@
+* each record represents a hand consisting of five playing cards drawn from a standard deck of 52
+* predict the "poker hand"
+* 829201 samples
+* 10 classes (highly unbalanced)
+* 11 features
+* no missing values
