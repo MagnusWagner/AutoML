@@ -46,3 +46,4 @@ Further explanation in ```TPOT_executable.py```.
 - ```python TPOT_executable.py "breastcancer" "datasets/breastcancer/breast-cancer-diagnostic_cleaned.csv" "MALIGNANT" 60```
 - ```python TPOT_executable.py "pokerhand" "datasets/pokerhand/pokerhand-normalized_cleaned.csv" "class" 60``` -> not working
 
+#### For an overview, look into the ```Teach Talk TPOT.ipynb``` notebook.
